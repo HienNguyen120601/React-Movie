@@ -1,0 +1,45 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.collapse{
+  justify-content: right;
+}
+.img-container{
+  height: 500px;
+}
+.card-img-top{
+  height: 200px;
+}
+.card-title{
+  margin-top: -10px;
+  text-align: center;
+}
+.cin-logo{
+  width: 50px;
+  height: 50px;
+  margin: 10px 0;
+}
+.footer{
+  color: darkgray;
+  line-height: 30px;
+}
+.footer h2, .footer h3{
+  color: rgb(209, 209, 209);
+}
+.footer ul {
+  list-style: none;
+}
+.footer a{
+  text-decoration: none;
+  font-weight: 600;
+  cursor: pointer;
+}
+.booking-info{
+  color: #10461d;
+}
+.icon-entertain{
+  color: white;
+  font-size: 24px;
+}
